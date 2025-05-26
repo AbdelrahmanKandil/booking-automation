@@ -1,0 +1,8 @@
+com\booking\automation\pages\HomePage.class
+com\booking\automation\pages\PaymentPage.class
+com\booking\automation\pages\ReservationPage.class
+com\booking\automation\base\BaseTest.class
+com\booking\automation\pages\SearchResultsPage.class
+com\booking\automation\pages\HotelDetailsPage.class
+com\booking\automation\tests\BookingTest.class
+com\booking\automation\utils\ExcelDataProvider.class
