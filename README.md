@@ -1,4 +1,4 @@
-# 🏨 Booking.com Test Automation Framework
+# ✈️🏢 Booking.com Test Automation Framework
 
 ## 📝 Overview
 This project is a robust test automation framework for Booking.com, built using Selenium WebDriver and Java. It implements the Page Object Model (POM) design pattern for maintainable and scalable test automation.
